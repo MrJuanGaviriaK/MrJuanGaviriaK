@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrJuanGaviriaK
 - I’m currently working on kommit
 - 👀 I’m interested in new technologies
-- I'm an open-source contributor on JS projects
+- I'm an open-source contributor on JS, Ruby and Elixir projects
 - 📫 How to reach me juan.gaviria@kommit.co
 
 <!---
